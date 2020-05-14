@@ -3,6 +3,8 @@ import "./header.css";
 
 const Header = () => {
   return (
+    //  <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+    // <div class="card-header">Header</div>
     <div className="header d-flex">
       <h3>
         <a href="#">Star DB</a>

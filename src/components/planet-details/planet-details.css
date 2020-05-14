@@ -1,0 +1,15 @@
+.planet-image {
+  align-self: left;
+  width: 250px;
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+}
+.div {
+  margin-top: 0.5rem;
+  padding-left: 10px;
+}
+.planet-image ul li:hover {
+  background-color: #444;
+}

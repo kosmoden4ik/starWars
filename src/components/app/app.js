@@ -1,12 +1,12 @@
 import React from "react";
 import "./app.css";
-import ItemList from "../item-list.js";
-import Header from "../header.js";
-import PlanetDetails from "../planet-details.js";
-import RandomPlanet from "../random-planet.js";
-import PersonDetails from "../person-details.js";
-import StarshipDetails from "../starship-details.js";
-import SwapiService from ".../swapi-services.js";
+import ItemList from "../item-list/";
+import Header from "..//header/";
+import PlanetDetails from "../planet-details/";
+import RandomPlanet from "../random-planet/";
+import PersonDetails from "../person-details/";
+import StarshipDetail from "../starship-details/";
+import SwapiService from "../../services/swapi-service.js";
 const App = () => {
   return (
     <div>
